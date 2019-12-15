@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E2CC-8AF8
+
+ Directory of C:\Users\VINAYANTH\Desktop\git
+
+2019-12-15  10:09 AM    <DIR>          .
+2019-12-15  10:09 AM    <DIR>          ..
+2019-12-15  10:09 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  46,688,686,080 bytes free
